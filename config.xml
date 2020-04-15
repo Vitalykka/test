@@ -26,19 +26,7 @@
     <platform name="android">
         <icon density="*" src="www/img/logo.png" />
 
-        <splash density="land-ldpi" src="www/android/drawable-land-ldpi-screen.png" />
-        <splash density="land-mdpi" src="www/android/drawable-land-mdpi-screen.png" />
-        <splash density="land-hdpi" src="www/android/drawable-land-hdpi-screen.png" />
-        <splash density="land-xhdpi" src="www/android/drawable-land-xhdpi-screen.png" />
-        <splash density="land-xxhdpi" src="www/android/drawable-land-xxhdpi-screen.png" />
-        <splash density="land-xxxhdpi" src="www/android/drawable-land-xxxhdpi-screen.png" />
-        <splash density="port-ldpi" src="www/android/drawable-port-ldpi-screen.png" />
-        <splash density="port-mdpi" src="www/android/drawable-port-mdpi-screen.png" />
-        <splash density="port-hdpi" src="www/android/drawable-port-hdpi-screen.png" />
-        <splash density="port-xhdpi" src="www/android/drawable-port-xhdpi-screen.png" />
-        <splash density="port-xxhdpi" src="www/android/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="www/android/drawable-port-xxxhdpi-screen.png" />
-        <!-- <splash density="*" src="www/img/logo.png" /> -->
+        <splash density="*" src="www/img/intro.png" />
     </platform>   
 
 </widget>
