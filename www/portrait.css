@@ -1,0 +1,38 @@
+#allText {
+    width: auto; 
+    margin: auto;
+    font-family: Verdana, sans-serif;
+    padding: 5px 20px 10px 20px;
+} 
+
+body {
+    background-color: #1c1c1c;
+}
+
+h1 {
+    text-shadow: 0 0 30px #1ED760;
+    text-align: center;
+    font-size: 110px;
+    margin: 50px 0;
+}
+
+#img {
+    text-align: center;
+}
+
+#lineHeader {
+    border: 1px solid #1ED760;
+}
+
+hr {
+    border: 1px solid #1ED760;
+}
+
+h3 {
+    padding-top: 30px;
+    margin-bottom: 15px;
+}
+
+#text {
+    color: #fff;
+}

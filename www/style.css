@@ -1,0 +1,24 @@
+#allText {
+    width: 700px; 
+    margin: auto;
+    font-family: Verdana, sans-serif;
+    padding: 5px 20px 10px 20px;
+}
+
+h1 {
+    text-shadow: 0 0 20px #1ED760;
+    text-align: center;
+}
+
+#img {
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #3c3c3c;
+}
+
+h3 {
+    padding-top: 30px;
+    margin-bottom: 15px;
+}

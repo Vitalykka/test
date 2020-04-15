@@ -1,0 +1,50 @@
+body {
+    background-color: #1c1c1c;
+}
+
+#allText {
+    width: 700px; 
+    margin: auto;
+    font-family: Verdana, sans-serif;
+    padding: 5px 20px 10px 20px;
+}
+
+h1 {
+    text-shadow: 0 0 30px #1ED760;
+    font-size: 110px;
+    margin: 50px 0;
+}
+
+#position {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+#logo {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#name {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#lineHeader {
+    border: 1px solid #1ED760;
+}
+
+hr {
+    border: 1px solid #1ED760;
+}
+
+h3 {
+    padding-top: 30px;
+    margin-bottom: 15px;
+}
+
+#text {
+    color: #fff;
+}
