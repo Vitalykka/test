@@ -4,10 +4,6 @@
         xmlns="http://www.w3.org/ns/widgets" 
         xmlns:gap="http://phonegap.com/ns/1.0">
 
-<plugin name="cordova-plugin-splashscreen"
-    source="npm" 
-    spec="~3.2.1" />
-
     <name>Orientation</name>
     <description>
         A little page about Spotify.
@@ -17,6 +13,10 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+
+    <plugin name="cordova-plugin-splashscreen"
+            source="npm" 
+            spec="~3.2.1" />
     
     <preference name="Fullscreen"
                 value="true" />  
@@ -24,8 +24,8 @@
                 value="10000" />
 
     <platform name="android">
-        <icon density="*" src="www/img/logo.png">
-        <splash density="*" src="www/img/logo.png">
+        <icon density="*" src="www/img/logo.png" />
+        <splash density="*" src="www/img/logo.png" />
     </platform>   
 
 </widget>
